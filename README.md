@@ -7,3 +7,7 @@ The user will run the program and will enter
  The program will then create a separate thread 
 that outputs all the prime numbers less than or equal to the 
 number entered by the user. 
+
+Qstn2:-Generate a solution in C to find whether the system
+ is in safe state or not? 
+ 
